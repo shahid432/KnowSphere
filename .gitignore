@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+backend/.env
+
+# Uploads
+backend/app/uploads/
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Temporary debug files
+backend/check_collection.py
+backend/delete_collection.py
+backend/test_generate.py
